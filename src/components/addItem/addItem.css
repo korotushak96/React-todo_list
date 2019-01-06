@@ -1,0 +1,8 @@
+.item-add-form{
+    margin-top: 5px;
+}
+
+.item-add-form .form-control{
+    width: 25rem;
+    margin-right: 5px;
+}
